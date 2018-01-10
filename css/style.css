@@ -11,6 +11,14 @@ body {
     background-color: #434343;
 }
 
+a {
+    text-decoration:none;
+}
+
+a:hover {
+    opacity: 0.8;
+}
+
 .container {
     position: relative;
     height: 100%;
@@ -334,4 +342,9 @@ button:active {
 .centerimg {
     width: 70%;
     text-align:center;
+}
+
+span {
+    color:#980000;
+    font-weight: bold;
 }
