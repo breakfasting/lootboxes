@@ -348,3 +348,7 @@ span {
     color:#980000;
     font-weight: bold;
 }
+
+u {
+    text-decoration:none;
+}
